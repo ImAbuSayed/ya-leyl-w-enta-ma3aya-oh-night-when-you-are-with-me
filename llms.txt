@@ -19,7 +19,7 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> [Excerpt will appear here after the final lyric is saved.]
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
